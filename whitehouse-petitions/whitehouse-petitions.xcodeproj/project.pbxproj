@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		73AC54171DA29F0800976C32 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73AC54161DA29F0800976C32 /* SwiftyJSON.swift */; };
+		73AC54191DA2AE7A00976C32 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73AC54181DA2AE7A00976C32 /* DetailViewController.swift */; };
 		73DA8CCE1DA198DF00F8A042 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DA8CCD1DA198DF00F8A042 /* AppDelegate.swift */; };
 		73DA8CD01DA198DF00F8A042 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DA8CCF1DA198DF00F8A042 /* ViewController.swift */; };
 		73DA8CD31DA198DF00F8A042 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73DA8CD11DA198DF00F8A042 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		73AC54161DA29F0800976C32 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		73AC54181DA2AE7A00976C32 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		73DA8CCA1DA198DF00F8A042 /* whitehouse-petitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "whitehouse-petitions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73DA8CCD1DA198DF00F8A042 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73DA8CCF1DA198DF00F8A042 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				73DA8CCD1DA198DF00F8A042 /* AppDelegate.swift */,
 				73DA8CCF1DA198DF00F8A042 /* ViewController.swift */,
+				73AC54181DA2AE7A00976C32 /* DetailViewController.swift */,
 				73DA8CD11DA198DF00F8A042 /* Main.storyboard */,
 				73DA8CD41DA198DF00F8A042 /* Assets.xcassets */,
 				73DA8CD61DA198DF00F8A042 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				73AC54171DA29F0800976C32 /* SwiftyJSON.swift in Sources */,
 				73DA8CD01DA198DF00F8A042 /* ViewController.swift in Sources */,
 				73DA8CCE1DA198DF00F8A042 /* AppDelegate.swift in Sources */,
+				73AC54191DA2AE7A00976C32 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
